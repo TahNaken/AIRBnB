@@ -1,0 +1,2 @@
+print('God is good')
+
